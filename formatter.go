@@ -9,8 +9,8 @@ import (
 	"strings"
 	"time"
 
+	"github.com/TykTechnologies/logrus"
 	"github.com/mgutz/ansi"
-	"github.com/sirupsen/logrus"
 )
 
 const reset = ansi.Reset
